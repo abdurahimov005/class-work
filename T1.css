@@ -1,0 +1,55 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-image: linear-gradient(to bottom right, rgb(88, 177, 249), rgb(147, 43, 167));
+    font-family: sans-serif;
+}
+fieldset{
+    background-color: white;
+    border-radius: 10px;
+    outline: none;
+    margin: 10px;
+    
+}
+.btn{
+    background-image: linear-gradient(to bottom right, rgb(88, 177, 249), rgb(147, 43, 167));
+    width: 420px;
+    text-align: center;
+    outline: none;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.xz{
+    margin-left: 20px;
+
+}
+.man{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 10px 20px;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid gray;
+    margin-top: 10px;
+}
+.ol{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+}
+label{
+    margin-top: 30px;
+}
+.xz{
+    margin-top: 20px;
+}
